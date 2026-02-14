@@ -26,7 +26,7 @@ icon: lucide/cpu
 
 ## Electrical Specs
 
-roboRIO must be on a dedicated circuit with a 10A fuse.
+:lucide-triangle-alert: roboRIO must be on a dedicated circuit with a 10A fuse.
 
 ### CAN
 
