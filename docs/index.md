@@ -2,7 +2,9 @@
 
 This site links to authoritative FRC and vendor sources, and tries to distill the most useful quick references into one place.
 
-Team 401 [Hardware](./Devices/)
+Team 401 [All Hardware](./Devices/)
+
+| [Motors](./Devices/Motors/) | [Radios](./Devices/Radios/) | [Controlers](./Devices/Controllers/) [Sensors](./Devices/Sensors/) | [Power](./Devices/Power/) |
 
 ## References and How-To Guides
 

@@ -31,7 +31,7 @@ icon: lucide/disc-3
 
 ## Electrical Specs
 
-Use a 40A fuse.
+- Use a 40A fuse.
 
 ## Wiring
 
