@@ -22,8 +22,8 @@ Note: Our 3D Printed enclosure for the CANivore, Pigeon and roboRIO covers the B
 
 | LED Name | Color / State                                        | Description             |
 | -------- | ---------------------------------------------------- | ----------------------- |
-| CAN      | <span style="color:red">Red</span> double blink      | Voltage too low for CAN |
-| CAN      | Solid <span style="color:red">Red</span>             | No CAN communication    |
+| CAN      | Solid <span style="color:red">Red</span> | Voltage too low for CAN        |
+| CAN      | <span style="color:red">Red</span> double-blink | No CAN communication |
 
 ## Elecrical Specs
 
