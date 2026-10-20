@@ -1,6 +1,3 @@
----
-icon: lucide/battery-charging
----
 # MitoCANdria
 
 The MitoCANdria provides reliable, clean power to the vision PC.
@@ -23,5 +20,5 @@ The MitoCANdria provides reliable, clean power to the vision PC.
 
 ## Reference Docs
 
-- :lucide-book-open-text: [User's Guide](https://docs.thethriftybot.com/mitocandria/)
-- :lucide-shopping-cart: [Product Page](https://www.thethriftybot.com/products/mitocandria)
+- <img src="../../assets/icons/book-open-text.svg" width="18" height="18" alt="User Guide"> [User's Guide](https://docs.thethriftybot.com/mitocandria/)
+- <img src="../../assets/icons/shopping-cart.svg" width="18" height="18" alt="Shop"> [Product Page](https://www.thethriftybot.com/products/mitocandria)

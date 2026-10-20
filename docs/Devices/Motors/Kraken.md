@@ -1,6 +1,3 @@
----
-icon: lucide/disc-3
----
 # Kraken X60/X44 Powered by Talon FX
 
 - The Kraken X60 is a high-performance brushless motor used for robot drive.
@@ -35,19 +32,18 @@ icon: lucide/disc-3
 
 ## Wiring
 
-![Talon FX Connectors](./Kraken%20X44%20-%20Wiring%20&%20Modularity.svg){ width="300" }
+<img src="./Kraken%20X44%20-%20Wiring%20&%20Modularity.svg" width="200" height="200" alt="Kraken X60/X44 Terminals" />
 
-| Location        | Screw Size   | Driver Size | Torque Value | Wire Size |
-| --------------- | ------------ | ----------- | ------------ | --------- |
+| Location        | Screw Size    | Driver Size | Torque Value | Wire Size |
+| --------------- | ------------- | ----------- | ------------ | --------- |
 | Power Terminals | #6-32 x 1/4" | IP10 or T10 | 0.9 N*m      | 10 AWG    |
 | CAN Terminals   | #4-40 x 1/4" | IP8 or T8   | 0.6 N*m      | 22 AWG    |
 
-!!! warning
-
-    DO NOT use longer screws in either location. Use of longer screws may damage the controller.
+> [!caution]
+> DO NOT use longer screws in either location. Use of longer screws may damage the controller.
 
 ## Reference Docs
 
-- :lucide-book-open-text: [Kraken X60 Docs](https://docs.wcproducts.com/welcome/electronics/kraken-x60) [Kraken X44 Docs](https://docs.wcproducts.com/welcome/electronics/kraken-x44)
-- :lucide-siren: [Status Lights Reference](https://v6.docs.ctr-electronics.com/en/stable/docs/hardware-reference/talonfx/index.html#status-light-reference)
-- :lucide-shopping-cart: [Kraken X60 Product Page](https://store.ctr-electronics.com/products/kraken-x60) [Kraken X44 Product Page](https://store.ctr-electronics.com/products/kraken-x44)
+- <img src="../../assets/icons/book-open-text.svg" width="18" height="18" alt="User Guide"> [Kraken X60 Docs](https://docs.wcproducts.com/welcome/electronics/kraken-x60) [Kraken X44 Docs](https://docs.wcproducts.com/welcome/electronics/kraken-x44)
+- <img src="../../assets/icons/siren.svg" width="18" height="18" alt="LEDs"> [Status Lights Reference](https://v6.docs.ctr-electronics.com/en/stable/docs/hardware-reference/talonfx/index.html#status-light-reference)
+- <img src="../../assets/icons/shopping-cart.svg" width="18" height="18" alt="Shop"> [Kraken X60 Product Page](https://store.ctr-electronics.com/products/kraken-x60) [Kraken X44 Product Page](https://store.ctr-electronics.com/products/kraken-x44)

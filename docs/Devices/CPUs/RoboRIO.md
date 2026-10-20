@@ -1,19 +1,16 @@
----
-icon: lucide/cpu
----
 # roboRIO 2.0
 
 ## LED States
 
 ### Normal Operations
 
-| LED Name | Color / State | Description  |
-| -------- | ------------- | -------------|
-| Power    | <span style="color:green">Green</span> Solid   | Normal, no faults. |
-| Status   | Off           | Normal Operation |
-|          | Flash 3x      | Safe Mode        |
+| LED Name | Color / State                                | Description        |
+| -------- | -------------------------------------------- | ------------------ |
+| Power    | <span style="color:green">Green</span> Solid | Normal, no faults. |
+| Status   | Off                                          | Normal Operation   |
+|          | Flash 3x                                     | Safe Mode          |
 
-:lucide-power: The roboRIO 2.0 performs a power-on self test (POST). During the POST, the Power and Status LEDs turn on. When the Status LED turns off, the POST is complete.
+<img src="../../assets/icons/car-battery.svg" width="18" height="18" alt="Power" /> The roboRIO 2.0 performs a power-on self test (POST). During the POST, the Power and Status LEDs turn on. When the Status LED turns off, the POST is complete.
 
 ### Error States
 
@@ -26,17 +23,18 @@ icon: lucide/cpu
 
 ## Electrical Specs
 
-:lucide-triangle-alert: roboRIO must be on a dedicated circuit with a 10A fuse.
+>[!important]
+>roboRIO must be on a dedicated circuit with a 10A fuse.
 
 ### CAN
 
 We prefer to use the [CANivore](../Network/CANivore.md) CAN FD interface over the roboRIO 2.0 CAN.
 
 - roboRIO 2.0 uses the older and slower CAN 2.0 Bus spec.
-- :lucide-pencil: The roboRIO 2.0 contains an internal 120 Ω termination resistor between L (GRN) and H (YEL).
+- <img src="../../assets/icons/notebook-pen.svg" width="18" height="18" alt="Note"> The roboRIO 2.0 contains an internal 120 Ω termination resistor between L (GRN) and H (YEL).
 
 ## Reference Docs
 
-- :lucide-book-open-text: [User's Guide](https://www.ni.com/docs/en-US/bundle/roborio-20-umanual/page/user-manual-welcome.html)
-- :lucide-siren: [LED Indications](https://www.ni.com/docs/en-US/bundle/roborio-20-umanual/page/ledindications.html)
-- :lucide-shopping-cart: _The roboRIO 2.0 is no longer available._
+- <img src="../../assets/icons/book-open-text.svg" width="18" height="18" alt="User Guide"> [User's Guide](https://www.ni.com/docs/en-US/bundle/roborio-20-umanual/page/user-manual-welcome.html)
+- <img src="../../assets/icons/siren.svg" width="18" height="18" alt="LEDs"> [LED Indications](https://www.ni.com/docs/en-US/bundle/roborio-20-umanual/page/ledindications.html)
+- <img src="../../assets/icons/shopping-cart.svg" width="18" height="18" alt="Shop"> _The roboRIO 2.0 is no longer available.

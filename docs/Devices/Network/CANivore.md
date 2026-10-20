@@ -1,11 +1,8 @@
----
-icon: lucide/network
----
 # CANivore CAN FD Bus Expansion
 
 CANivore provides a CAN FD network, which is faster than the CAN 2.0 provided by [roboRIO 2.0](../CPUs/RoboRIO.md)
 
-![CANivore CAN FD](https://store.ctr-electronics.com/cdn/shop/files/CANivore_robotics-USB-to-CAN-FD-hub-robot-automation-robotics-device-top.png){ align=right width=128}
+<img src="./Canivore.png" width="300" height="300" alt="CANivore FD">
 
 ## LED Status
 
@@ -29,5 +26,6 @@ Note: Our 3D Printed enclosure for the CANivore, Pigeon and roboRIO covers the B
 
 ## Reference Docs
 
-- :lucide-book-open-text: [User's Guide](https://ctre.download/files/user-manual/CANivore%20User's%20Guide.pdf)
-- :lucide-shopping-cart: [Product Page](https://store.ctr-electronics.com/products/canivore)
+- <img src="../../assets/icons/book-open-text.svg" width="18" height="18" alt="User Guide"> [User's Guide](https://ctre.download/files/user-manual/CANivore%20User's%20Guide.pdf)
+- <img src="../../assets/icons/shopping-cart.svg" width="18" height="18" alt="Shop"> [Product Page](https://store.ctr-electronics.com/products/canivore)
+
