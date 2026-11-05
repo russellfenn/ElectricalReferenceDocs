@@ -39,8 +39,8 @@
 | Power Terminals | #6-32 x 1/4" | IP10 or T10 | 0.9 N*m      | 10 AWG    |
 | CAN Terminals   | #4-40 x 1/4" | IP8 or T8   | 0.6 N*m      | 22 AWG    |
 
-> [!CAUTION]
-> DO NOT use longer screws in either location. Use of longer screws may damage the controller.
+!!! warning
+    DO NOT use longer screws in either location. Use of longer screws may damage the controller.
 
 ## Reference Docs
 
