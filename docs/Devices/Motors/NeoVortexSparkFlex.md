@@ -11,7 +11,7 @@
 | Blink <span style="color:magenta">Magenta</span> | No Signal   | Coast mode |
 | Solid <span style="color:magenta">Magenta</span> | Good Signal | Coast mode |
 
-> [!note]
+> [!NOTE]
 > These codes are for **brushless motors**. See the full list of [Blink Codes](https://docs.revrobotics.com/brushless/spark-flex/status-led).
 
 <img src="../../assets/icons/refresh-cw.svg" width="18" height="18" alt="Switch" /> Switch between Brake Mode (Cyan) and Coast Mode (Magenta) with the Mode button. Must be on main power (not just USB power).
